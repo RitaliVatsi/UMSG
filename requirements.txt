@@ -1,0 +1,8 @@
+torch
+transformers
+gradio
+pillow
+accelerate
+mediapipe==0.10.14
+opencv-python-headless
+timm
